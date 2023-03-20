@@ -1,0 +1,3 @@
+https://github.com/ngx-translate/core/issues/1005
+https://auberginesolutions.com/blog/cache-busting-for-an-angular-app-deployed-with-aws-s3-and-cloudfront/
+https://dev.to/felipemsfg/como-desabilitar-o-cache-no-angular-5bog#:~:text=Uma%20outra%20forma%20de%20for%C3%A7ar,mecanismo%20de%20cache%20dos%20navegadores
